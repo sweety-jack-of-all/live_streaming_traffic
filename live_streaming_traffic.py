@@ -11,7 +11,7 @@ st.set_page_config(page_title="Live Traffic Data", layout="wide")
 st.title("🚦 Live Traffic Stream")
 
 # TomTom API credentials
-API_KEY = "Tc0H8xHKFvJz77pQaWrcXLUhfMLGqt26"  # Replace with your TomTom API key
+API_KEY = "YOUR_TOMTOM_API_KEY"  # Replace with your TomTom API key
 LATITUDE = 51.5074  # Example latitude (London)
 LONGITUDE = -0.1278  # Example longitude (London)
 RADIUS = 1000  # Radius in meters for traffic data
